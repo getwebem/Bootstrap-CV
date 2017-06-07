@@ -1,9 +1,8 @@
-# Jump Start Resume App
-### **Getting started**
+# John Does Resume
 ### Technologies Used
-#### HTML5, CSS3, Bootstrap 3.3.7, Sass, Photoshop
- - Run :  `git clone https://github.com/getwebem/John-Doe-Resume.git`
- - Run :  `cd John-Doe-Resume`
+#### HTML5, CSS3, Bootstrap 3.3, Sass, Photoshop
+ - Run :  `git clone https://github.com/getwebem/sampleResume.git`
+ - Run :  `cd sampleResume`
  - Run :  `Brackets .`
  - Open:  `Index.html`
  - Open:  `Live Preview`  
