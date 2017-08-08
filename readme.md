@@ -6,6 +6,7 @@
  - $ :  `Brackets .`
  - Open:  `Index.html`
  - Open:  `Live Preview`  
+  - [View Demo](http://getwebem.com/sampleResume/)  
  <br/><br/>
 ![pic1](https://raw.githubusercontent.com/getwebem/README/master/sampleResume/Screen%20Shot%202017-08-08%20at%2011.10.48.png)
 <br/><br/>
